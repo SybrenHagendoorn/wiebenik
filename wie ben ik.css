@@ -1,0 +1,28 @@
+body
+{
+	background-color: darkolivegreen}
+	h1 {color: khaki;}
+	h2{color:khaki;}
+	p{color:beige;
+   
+}
+
+p 
+{
+	border:1px solid black;
+	outline-style:double;
+	outline-color:black;
+	outline-offset:1px;
+	width: 30%
+}
+
+
+ul
+{
+	list-style-type:none;
+	margin: 0;
+	padding:0;
+	width: 200px;
+	background-color: khaki;
+}
+
